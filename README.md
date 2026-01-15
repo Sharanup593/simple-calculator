@@ -15,10 +15,12 @@ This project performs basic arithmetic operations and demonstrates core frontend
 - CSS
 - JavaScript
 
-## 📂 Project Structure
-├── index.html<br>
-├── style.css<br>
-└── script.js
+## simple-calculator/
+│
+├── index.html      # Main HTML file
+├── style.css       # CSS file for styling
+├── script.js       # JavaScript file for calculator logic
+└── README.md       # Project documentation
 
 ## 📌 How to Run the Project
 1. Download or clone the repository
