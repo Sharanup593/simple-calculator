@@ -16,8 +16,8 @@ This project performs basic arithmetic operations and demonstrates core frontend
 - JavaScript
 
 ## 📂 Project Structure
-├── index.html
-├── style.css
+├── index.html<br>
+├── style.css<br>
 └── script.js
 
 ## 📌 How to Run the Project
