@@ -16,10 +16,10 @@ This project performs basic arithmetic operations and demonstrates core frontend
 - JavaScript
 
 ## simple-calculator/
-│
-├── index.html      # Main HTML file
-├── style.css       # CSS file for styling
-├── script.js       # JavaScript file for calculator logic
+│<br>
+├── index.html      # Main HTML file<br>
+├── style.css       # CSS file for styling<br>
+├── script.js       # JavaScript file for calculator logic<br>
 └── README.md       # Project documentation
 
 ## 📌 How to Run the Project
